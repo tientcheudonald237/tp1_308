@@ -1,0 +1,40 @@
+Quelle est la capitale de la France ?|Londres|Berlin|Paris|Rome|2
+Quel est le plus long fleuve de France ?|La Loire|Le Rhône|La Seine|La Garonne|2
+Quelle est la couleur du drapeau français ?|Bleu, blanc, rouge|Bleu, blanc, vert|Rouge, blanc, bleu|Bleu, blanc, jaune|0
+Qui a écrit "Les Misérables" ?|Victor Hugo|Gustave Flaubert|Émile Zola|Albert Camus|1
+Quel est le monument le plus visité de France ?|Le Louvre|Notre-Dame de Paris|Le château de Versailles|La Tour Eiffel|3
+Quel est le fromage le plus consommé en France ?|Le Roquefort|Le Camembert|Le Brie|Le Comté|1
+Quelle est la monnaie utilisée en France ?|Le franc|La livre|Le dollar|L'euro|3
+Quel est le plat traditionnel français à base de viande hachée et de pommes de terre ?|Hachis parmentier|Bœuf bourguignon|Coq au vin|Cassoulet|0
+Qui est le président actuel de la France ?|Emmanuel Macron|François Hollande|Nicolas Sarkozy|Jacques Chirac|0
+Quelle est la période des vacances d'été en France ?|Juillet et août|Mai et juin|Septembre et octobre|Avril et mai|0
+Quelle est la langue de programmation la plus utilisée dans le développement web ?|JavaScript|Python|Java|C++|0
+Quel est le principal protocole de communication utilisé sur Internet ?|HTTP|FTP|SSH|SMTP|0
+Quel est le langage utilisé pour créer des pages web dynamiques ?|PHP|HTML|CSS|JavaScript|3
+Qui est considéré comme le père de l'informatique ?|Alan Turing|Bill Gates|Steve Jobs|Tim Berners-Lee|0
+Qu'est-ce que SQL ?|Un langage de programmation pour les applications mobiles|Un système d'exploitation pour les serveurs|Un langage de requête structuré pour les bases de données|Une méthode de cryptage des données|2
+Quelle est la fonction principale d'un système d'exploitation ?|Contrôler le matériel et les ressources du système|Exécuter des programmes de bureau|Créer des présentations graphiques|Filtrer les e-mails indésirables|0
+Quel est le principal avantage de l'utilisation des services de cloud computing ?|Économie de coûts|Sécurité accrue|Vitesse de traitement plus rapide|Moins de flexibilité|0
+Qu'est-ce qu'un algorithme ?|Une méthode pour envoyer des courriels|Une série d'instructions pour résoudre un problème|Un type de virus informatique|Une carte graphique haute performance|1
+Quel langage est principalement utilisé pour le développement d'applications mobiles sur Android ?|Java|Swift|C#|Python|0
+Quelle est la fonction principale d'un pare-feu ?|Protéger un réseau contre les attaques non autorisées|Accélérer la vitesse d'Internet|Contrôler le volume sonore de l'ordinateur|Optimiser les performances du processeur|0
+Qui est le meilleur buteur de tous les temps en Coupe du Monde de la FIFA ?|Pelé|Lionel Messi|Cristiano Ronaldo|Miroslav Klose|3
+Quel joueur a remporté le plus de Ballon d'Or dans l'histoire du football ?|Lionel Messi|Cristiano Ronaldo|Diego Maradona|Pele|0
+Quelle équipe a remporté le plus de titres de la Ligue des Champions de l'UEFA ?|Real Madrid|FC Barcelone|Bayern Munich|Liverpool|0
+Quel est le pays d'origine du célèbre joueur de football Diego Maradona ?|Argentine|Brésil|France|Italie|0
+Quelle est la durée d'un match de football réglementaire, sans prolongations ni tirs au but ?|90 minutes|60 minutes|120 minutes|45 minutes|0
+Quel est le nom du trophée remis au vainqueur de la Coupe du Monde de la FIFA ?|La Coupe du Monde|La Coupe Jules Rimet|La Coupe d'Or|La Coupe de la FIFA|1
+Quelle équipe nationale de football a remporté le plus de titres de la Coupe du Monde de la FIFA ?|Brésil|Allemagne|Italie|Argentine|0
+Quel est le club de football le plus titré en Premier League anglaise ?|Manchester United|Liverpool|Arsenal|Chelsea|0
+Qui est l'entraîneur de football le plus titré de l'histoire ?|Sir Alex Ferguson|Pep Guardiola|Jose Mourinho|Carlo Ancelotti|0
+Quel joueur a remporté le plus de fois le Soulier d'Or, récompensant le meilleur buteur européen de l'année ?|Lionel Messi|Cristiano Ronaldo|Luis Suarez|Robert Lewandowski|0
+Quel est le pays le plus peuplé d'Afrique ?|Nigeria|Égypte|Ethiopie|République démocratique du Congo|0
+Quelle est la plus grande ville d'Afrique en termes de population ?|Lagos|Le Caire|Kinshasa|Johannesburg|0
+Quel est le plus haut sommet d'Afrique ?|Le Kilimandjaro|Le mont Kenya|Le mont Cameroun|Le mont Stanley|0
+Quel est le plus long fleuve d'Afrique ?|Le Nil|Le Congo|Le Niger|Le Zambèze|0
+Quel est le désert le plus grand d'Afrique ?|Le Sahara|Le Kalahari|Le désert du Namib|Le désert du Karoo|0
+Quel pays africain est le plus grand producteur de pétrole ?|Nigéria|Angola|Algérie|Libye|0
+Quelle est la capitale de l'Afrique du Sud ?|Pretoria|Le Cap|Johannesburg|Bloemfontein|0
+Quel est le plus grand lac d'Afrique en superficie ?|Le lac Victoria|Le lac Tanganyika|Le lac Malawi|Le lac Turkana|0
+Quel est le pays le plus petit d'Afrique en termes de superficie ?|Seychelles|Comores|Maurice|Gambie|0
+Quelle est la monnaie utilisée en Égypte ?|La livre égyptienne|Le dinar tunisien|Le shilling kényan|Le franc CFA|0
