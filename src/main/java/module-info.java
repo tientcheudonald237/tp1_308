@@ -1,6 +1,7 @@
 module com.example.randomquestion {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
 
     opens com.example.randomquestion to javafx.fxml;

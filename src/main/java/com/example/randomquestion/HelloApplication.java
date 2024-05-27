@@ -11,8 +11,9 @@ public class HelloApplication extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("start-game-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 1305, 762);
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("choose-role-view.fxml"));
+//        Scene scene = new Scene(fxmlLoader.load(), 1305, 762);
+        Scene scene = new Scene(fxmlLoader.load(), 706, 472);
         stage.setTitle("Random Question Page");
         stage.setScene(scene);
         stage.show();
