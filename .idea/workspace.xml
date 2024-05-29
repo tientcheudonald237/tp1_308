@@ -9,14 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1311e800-df12-4dd6-8479-20c7896a1ce7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/controller/ChooseRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/randomquestion/choose-role-view.fxml" afterDir="false" />
+    <list default="true" id="1311e800-df12-4dd6-8479-20c7896a1ce7" name="Changes" comment="Connection a la base de donnees">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/controller/SIgnInController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/dao/QuestionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/entity/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/helper/Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/randomquestion/admin-game-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/randomquestion/sign-in-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/controller/ChooseRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/controller/ChooseRoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/entity/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/entity/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/service/SceneSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/randomquestion/service/SceneSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/randomquestion/choose-role-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/randomquestion/choose-role-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="FxmlFile" />
         <option value="Class" />
       </list>
@@ -50,18 +56,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/usr/share/java/mysql-connector-java-8.0.30.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/usr/share/java/mysql-connector-java-8.0.30.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DataBaseConnection">
+}</component>
+  <component name="RunManager" selected="Application.com.example.randomquestion.HelloApplication">
     <configuration name="DataBaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.randomquestion.DataBaseConnection" />
       <module name="RandomQuestion" />
@@ -90,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataBaseConnection" />
         <item itemvalue="Application.com.example.randomquestion.HelloApplication" />
+        <item itemvalue="Application.DataBaseConnection" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716816408722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Connection a la base de donnees">
+      <created>1716820858528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716820858528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="validation du travail" />
-    <option name="LAST_COMMIT_MESSAGE" value="validation du travail" />
+    <MESSAGE value="Connection a la base de donnees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connection a la base de donnees" />
   </component>
 </project>
